@@ -1,2 +1,2 @@
-# vit_ap_app
- Cross platform application for vit-ap university
+# To Do list
+ Cross platform application with google sign in 
